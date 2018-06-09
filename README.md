@@ -1,0 +1,2 @@
+# SlowLoadableComponentExample
+SlowLoadableComponent Example
